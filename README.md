@@ -1,1 +1,1 @@
-- 👋 Ahoj, som @Mr-Marian- 👀 Mám záujem o ...- 🌱 Momentálne sa učím HTML, CSS, responzívny dizajn, Java Script, SQL a Phyton.- 💞️ Hľadám spoluprácu na ...- 📫 Ako sa ku mne dostanete ...<!---Mr-Marian/Mr-Marian je ✨ špeciálny ✨ repozitár, pretože jeho `README.md` (tento súbor) sa zobrazuje na vašom profile GitHub.Kliknutím na odkaz Náhľad sa môžete pozrieť na svoje zmeny.--->
+
